@@ -3,7 +3,7 @@ __________________________________________
 
  *Features:* 
 
-```• Auto Headshot- Automatically detects the enemy and headshot the enemy.
+• Auto Headshot- Automatically detects the enemy and headshot the enemy.
 
 • AimBot- Automatically aims at the enemy.
 
@@ -11,7 +11,7 @@ __________________________________________
 
 • Aim Kill- Automatically detects the enemy and shoots at him.
 
-• And many more. 😙```
+• And many more. 😙
 __________________________________________
 
  *Contact us to Buy 🔰:* 
@@ -20,9 +20,9 @@ __________________________________________
 
  *ᴘᴊᴍᴀꜰɪᴀ x64 PC Panel PRICES:*
 
- ```1. Free Fire/MAX PC Panel (Anti-Ban 100%) ₹55```
+ 1. Free Fire/MAX PC Panel (Anti-Ban 100%) ₹55
 __________________________________________
 
-```Website ✅:``` https://t.ly/T-jTN
+Website ✅: https://t.ly/T-jTN
 
-```GitHub page 📃:``` https://github.com/RahulS-Dev
+GitHub page 📃: https://github.com/RahulS-Dev
